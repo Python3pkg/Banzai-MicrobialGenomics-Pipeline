@@ -19,9 +19,9 @@
 from time import sleep
 
 for i in range(0, 100):
-    print("YOLO "*100)
-print("\nDo you agree to Banzai randomly deleting files on your disk [Y/n]?")
-print("hatemail: m.stantoncook@gmail.com ;-)")
+    print "YOLO "*100
+print "\nDo you agree to Banzai randomly deleting files on your disk [Y/n]?"
+print "hatemail: m.stantoncook@gmail.com ;-)"
 sleep(10)
 print ("\nJust joking. Don't trust/believe everything you see/download on "
        "the internet")
